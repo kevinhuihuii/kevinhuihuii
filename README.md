@@ -1,4 +1,4 @@
 # About me. 👋
 
-- 🔭 I’m currently working on autonomous driving.
-- 🌱 I’m currently learning python.
+- 🔭 I’m currently studying Autonomous Driving. So hard!
+- 🌱 I’m currently learning Python.
